@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NegImNd42+PTCAHobYJLyd50/lEI9nDGZJNhuXed7PWFf0wt3OvLa1QJ87jsP8mSxOrU5A8EHvPB1vvaMyuyhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Richard\\source\\repos\\Learning\\NumberGuessingGame\\NumberGuessingGame\\NumberGuessingGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Richard\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Richard\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Richard\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Richard\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
