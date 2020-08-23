@@ -1,0 +1,13 @@
+C:\Users\Richard\source\repos\Learning\NumberGuessingGame\NumberGuessingGame\bin\Debug\netcoreapp3.0\NumberGuessingGame.exe
+C:\Users\Richard\source\repos\Learning\NumberGuessingGame\NumberGuessingGame\bin\Debug\netcoreapp3.0\NumberGuessingGame.deps.json
+C:\Users\Richard\source\repos\Learning\NumberGuessingGame\NumberGuessingGame\bin\Debug\netcoreapp3.0\NumberGuessingGame.runtimeconfig.json
+C:\Users\Richard\source\repos\Learning\NumberGuessingGame\NumberGuessingGame\bin\Debug\netcoreapp3.0\NumberGuessingGame.runtimeconfig.dev.json
+C:\Users\Richard\source\repos\Learning\NumberGuessingGame\NumberGuessingGame\bin\Debug\netcoreapp3.0\NumberGuessingGame.dll
+C:\Users\Richard\source\repos\Learning\NumberGuessingGame\NumberGuessingGame\bin\Debug\netcoreapp3.0\NumberGuessingGame.pdb
+C:\Users\Richard\source\repos\Learning\NumberGuessingGame\NumberGuessingGame\obj\Debug\netcoreapp3.0\NumberGuessingGame.csprojAssemblyReference.cache
+C:\Users\Richard\source\repos\Learning\NumberGuessingGame\NumberGuessingGame\obj\Debug\netcoreapp3.0\NumberGuessingGame.AssemblyInfoInputs.cache
+C:\Users\Richard\source\repos\Learning\NumberGuessingGame\NumberGuessingGame\obj\Debug\netcoreapp3.0\NumberGuessingGame.AssemblyInfo.cs
+C:\Users\Richard\source\repos\Learning\NumberGuessingGame\NumberGuessingGame\obj\Debug\netcoreapp3.0\NumberGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\Richard\source\repos\Learning\NumberGuessingGame\NumberGuessingGame\obj\Debug\netcoreapp3.0\NumberGuessingGame.dll
+C:\Users\Richard\source\repos\Learning\NumberGuessingGame\NumberGuessingGame\obj\Debug\netcoreapp3.0\NumberGuessingGame.pdb
+C:\Users\Richard\source\repos\Learning\NumberGuessingGame\NumberGuessingGame\obj\Debug\netcoreapp3.0\NumberGuessingGame.genruntimeconfig.cache
