@@ -1,4 +1,10 @@
-﻿using System;
+﻿/*
+ * Låt användaren skriva in ett heltal. Skriv ut samma till till användaren
+ * fast öka först alla siffror i talet med 1, nior ska ändras till nollor.
+ * T.ex. ska talet 415932 ändras till 526043.
+ */
+
+using System;
 
 namespace Uppgift_4._21
 {
