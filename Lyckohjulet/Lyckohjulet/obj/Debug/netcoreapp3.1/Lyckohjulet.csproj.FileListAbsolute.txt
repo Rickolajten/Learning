@@ -1,0 +1,12 @@
+C:\Users\Richard\source\repos\Learning\Lyckohjulet\Lyckohjulet\bin\Debug\netcoreapp3.1\Lyckohjulet.exe
+C:\Users\Richard\source\repos\Learning\Lyckohjulet\Lyckohjulet\bin\Debug\netcoreapp3.1\Lyckohjulet.deps.json
+C:\Users\Richard\source\repos\Learning\Lyckohjulet\Lyckohjulet\bin\Debug\netcoreapp3.1\Lyckohjulet.runtimeconfig.json
+C:\Users\Richard\source\repos\Learning\Lyckohjulet\Lyckohjulet\bin\Debug\netcoreapp3.1\Lyckohjulet.runtimeconfig.dev.json
+C:\Users\Richard\source\repos\Learning\Lyckohjulet\Lyckohjulet\bin\Debug\netcoreapp3.1\Lyckohjulet.dll
+C:\Users\Richard\source\repos\Learning\Lyckohjulet\Lyckohjulet\bin\Debug\netcoreapp3.1\Lyckohjulet.pdb
+C:\Users\Richard\source\repos\Learning\Lyckohjulet\Lyckohjulet\obj\Debug\netcoreapp3.1\Lyckohjulet.AssemblyInfoInputs.cache
+C:\Users\Richard\source\repos\Learning\Lyckohjulet\Lyckohjulet\obj\Debug\netcoreapp3.1\Lyckohjulet.AssemblyInfo.cs
+C:\Users\Richard\source\repos\Learning\Lyckohjulet\Lyckohjulet\obj\Debug\netcoreapp3.1\Lyckohjulet.csproj.CoreCompileInputs.cache
+C:\Users\Richard\source\repos\Learning\Lyckohjulet\Lyckohjulet\obj\Debug\netcoreapp3.1\Lyckohjulet.dll
+C:\Users\Richard\source\repos\Learning\Lyckohjulet\Lyckohjulet\obj\Debug\netcoreapp3.1\Lyckohjulet.pdb
+C:\Users\Richard\source\repos\Learning\Lyckohjulet\Lyckohjulet\obj\Debug\netcoreapp3.1\Lyckohjulet.genruntimeconfig.cache
