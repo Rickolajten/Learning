@@ -1,0 +1,13 @@
+C:\Users\Richard\source\repos\Learning\Tärningssimulator\Tärningssimulator\bin\Debug\netcoreapp3.1\Tärningssimulator.exe
+C:\Users\Richard\source\repos\Learning\Tärningssimulator\Tärningssimulator\bin\Debug\netcoreapp3.1\Tärningssimulator.deps.json
+C:\Users\Richard\source\repos\Learning\Tärningssimulator\Tärningssimulator\bin\Debug\netcoreapp3.1\Tärningssimulator.runtimeconfig.json
+C:\Users\Richard\source\repos\Learning\Tärningssimulator\Tärningssimulator\bin\Debug\netcoreapp3.1\Tärningssimulator.runtimeconfig.dev.json
+C:\Users\Richard\source\repos\Learning\Tärningssimulator\Tärningssimulator\bin\Debug\netcoreapp3.1\Tärningssimulator.dll
+C:\Users\Richard\source\repos\Learning\Tärningssimulator\Tärningssimulator\bin\Debug\netcoreapp3.1\Tärningssimulator.pdb
+C:\Users\Richard\source\repos\Learning\Tärningssimulator\Tärningssimulator\obj\Debug\netcoreapp3.1\Tärningssimulator.csprojAssemblyReference.cache
+C:\Users\Richard\source\repos\Learning\Tärningssimulator\Tärningssimulator\obj\Debug\netcoreapp3.1\Tärningssimulator.AssemblyInfoInputs.cache
+C:\Users\Richard\source\repos\Learning\Tärningssimulator\Tärningssimulator\obj\Debug\netcoreapp3.1\Tärningssimulator.AssemblyInfo.cs
+C:\Users\Richard\source\repos\Learning\Tärningssimulator\Tärningssimulator\obj\Debug\netcoreapp3.1\Tärningssimulator.csproj.CoreCompileInputs.cache
+C:\Users\Richard\source\repos\Learning\Tärningssimulator\Tärningssimulator\obj\Debug\netcoreapp3.1\Tärningssimulator.dll
+C:\Users\Richard\source\repos\Learning\Tärningssimulator\Tärningssimulator\obj\Debug\netcoreapp3.1\Tärningssimulator.pdb
+C:\Users\Richard\source\repos\Learning\Tärningssimulator\Tärningssimulator\obj\Debug\netcoreapp3.1\Tärningssimulator.genruntimeconfig.cache
