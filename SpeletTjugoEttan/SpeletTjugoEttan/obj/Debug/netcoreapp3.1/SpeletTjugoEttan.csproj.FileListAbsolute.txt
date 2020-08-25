@@ -1,0 +1,13 @@
+C:\Users\Richard\source\repos\Learning\SpeletTjugoEttan\SpeletTjugoEttan\bin\Debug\netcoreapp3.1\SpeletTjugoEttan.exe
+C:\Users\Richard\source\repos\Learning\SpeletTjugoEttan\SpeletTjugoEttan\bin\Debug\netcoreapp3.1\SpeletTjugoEttan.deps.json
+C:\Users\Richard\source\repos\Learning\SpeletTjugoEttan\SpeletTjugoEttan\bin\Debug\netcoreapp3.1\SpeletTjugoEttan.runtimeconfig.json
+C:\Users\Richard\source\repos\Learning\SpeletTjugoEttan\SpeletTjugoEttan\bin\Debug\netcoreapp3.1\SpeletTjugoEttan.runtimeconfig.dev.json
+C:\Users\Richard\source\repos\Learning\SpeletTjugoEttan\SpeletTjugoEttan\bin\Debug\netcoreapp3.1\SpeletTjugoEttan.dll
+C:\Users\Richard\source\repos\Learning\SpeletTjugoEttan\SpeletTjugoEttan\bin\Debug\netcoreapp3.1\SpeletTjugoEttan.pdb
+C:\Users\Richard\source\repos\Learning\SpeletTjugoEttan\SpeletTjugoEttan\obj\Debug\netcoreapp3.1\SpeletTjugoEttan.csprojAssemblyReference.cache
+C:\Users\Richard\source\repos\Learning\SpeletTjugoEttan\SpeletTjugoEttan\obj\Debug\netcoreapp3.1\SpeletTjugoEttan.AssemblyInfoInputs.cache
+C:\Users\Richard\source\repos\Learning\SpeletTjugoEttan\SpeletTjugoEttan\obj\Debug\netcoreapp3.1\SpeletTjugoEttan.AssemblyInfo.cs
+C:\Users\Richard\source\repos\Learning\SpeletTjugoEttan\SpeletTjugoEttan\obj\Debug\netcoreapp3.1\SpeletTjugoEttan.csproj.CoreCompileInputs.cache
+C:\Users\Richard\source\repos\Learning\SpeletTjugoEttan\SpeletTjugoEttan\obj\Debug\netcoreapp3.1\SpeletTjugoEttan.dll
+C:\Users\Richard\source\repos\Learning\SpeletTjugoEttan\SpeletTjugoEttan\obj\Debug\netcoreapp3.1\SpeletTjugoEttan.pdb
+C:\Users\Richard\source\repos\Learning\SpeletTjugoEttan\SpeletTjugoEttan\obj\Debug\netcoreapp3.1\SpeletTjugoEttan.genruntimeconfig.cache
