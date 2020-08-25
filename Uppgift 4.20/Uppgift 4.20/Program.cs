@@ -1,4 +1,14 @@
-﻿using System;
+﻿/*
+ * Skapa ett menyprogram som innehåller följande alternativ:
+
+
+Välj ett av följande alternativ.
+1. Subtrahera ett tal med ett annat
+2. Dividera ett tal med ett annat
+3. Avsluta programmet
+*/
+
+using System;
 
 namespace Uppgift_4._20
 {
